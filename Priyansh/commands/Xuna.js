@@ -1,5 +1,3 @@
-// modules/commands/xuna.js
-
 module.exports.config = {
   name: "xuna",
   version: "1.0.0",
